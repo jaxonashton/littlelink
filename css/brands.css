@@ -265,7 +265,7 @@ button:hover,
 /* GitHub */
 .button.button-github {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #25292E;
 }
 .button.button-github:hover,
 .button.button-github:focus {
@@ -604,7 +604,8 @@ button:hover,
 /* TikTok */
 .button.button-tiktok {
   color: #ffffff;
-  background-color: #000000;
+  #background-color: #000000;
+  background-image: linear-gradient(-135deg, #FFFFFF, #FE2C55, #25F4EE);
 }
 .button.button-tiktok:hover,
 .button.button-tiktok:focus {
